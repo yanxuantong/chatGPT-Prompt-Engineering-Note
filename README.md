@@ -1,2 +1,3 @@
 # ChatGPT-Prompt-Engineering-Note
-Notebook for ChatGPT Prompt Engineering for Developers
+
+Notebooks for course "ChatGPT Prompt Engineering for Developers" with individual notes.
